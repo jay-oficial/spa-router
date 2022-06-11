@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    height: 100vh;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+#app{
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    height: 100%;
+}
